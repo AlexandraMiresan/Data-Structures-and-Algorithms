@@ -1,0 +1,3 @@
+C:/Users/Ale/Desktop/Facultyy/Data Structures and Algorithms/Assignment_02/cmake-build-debug-coverage/CMakeFiles/Assignment_02.dir
+C:/Users/Ale/Desktop/Facultyy/Data Structures and Algorithms/Assignment_02/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+C:/Users/Ale/Desktop/Facultyy/Data Structures and Algorithms/Assignment_02/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
